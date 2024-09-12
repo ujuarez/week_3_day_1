@@ -276,9 +276,17 @@ print("The square root of your first number is",sqrt(numb1))
 
 ##########################################################################################
 # # mad libs game
+
+color = input("Enter a color:")
+plural_noun = input("Enter a plural noun:")
+celebrity = input("Enter a celebrity:")
+
 # print("Roses are {color}")
+print(f"Roses are {color}")
 # print("{plural noun} are blue")
+print(f"{plural_noun} are blue")
 # print("I love {celebrity}")
+print(f"I love {celebrity}")
 # # On to codehs.com
 
 
